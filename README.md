@@ -17,3 +17,4 @@ I did implement the code accroding to the `PDF` and `data` provided in each subf
 # Table of contents
 
 - [Week 1,2 - Linear regression](https://github.com/Pathairush/machine_learning_stanford/tree/main/01_linear_regression)
+- [Week 3 - Logistic regression](https://github.com/Pathairush/machine_learning_stanford/tree/main/02_logistic_regression)
